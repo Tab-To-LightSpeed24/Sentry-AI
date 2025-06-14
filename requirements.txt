@@ -1,0 +1,9 @@
+tensorflow==2.11.0
+tensorflow-hub==0.12.0
+numpy
+pillow
+requests
+fastapi
+uvicorn
+playwright
+beautifulsoup4
